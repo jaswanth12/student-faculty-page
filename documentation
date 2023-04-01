@@ -1,0 +1,17 @@
+1.  We have created 3 Generic users Admin, Teacher, Student.
+	If data in DB is lost, then
+		1.	To create admin record in DB
+			{"username":"Admin",
+			"type":"admin",
+			"userid":"111"}
+		2.	To create faculty record in DB
+			{"username":"Faculty",
+			"type":"faculty",
+			"userid":"222"}
+		3.	To create admin record in DB
+			{"username":"Student",
+			"type":"student",
+			"userid":"333"}
+	This is 1 time creation.
+
+2.
